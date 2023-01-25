@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Coutarel</h1>
-<h3 align="center">I'm a french engineer student at the engineering school ESIREM in Dijon (FRANCE). I'm 20 years old.</br>
+<h3 align="center">I'm a french engineer student at the engineering school ESIREM in Dijon (FRANCE). I'm 21 years old.</br>
 I'm passionate about computer science and I also like graphic designs.
 </h3>
 <h4 align="center">I share my student work and projects on this github.</h4>
