@@ -6,7 +6,6 @@ I'm passionate about computer science and I also like graphic designs.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://allancoutarel.fr" target="blank">My website</a></br></br>
 My e-mail : <a href="mailto:contact@allancoutarel.fr">contact@allancoutarel.fr</a></br></br>
 <a href="https://linkedin.com/in/allancoutarel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
