@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Coutarel</h1>
-<h3 align="center">I'm a french engineer student at the engineering school ESIREM in Dijon (FRANCE). I'm 22 years old.</br>
-I'm passionate about computer science and I also like graphic designs.
+<h3 align="center">🎓 Graduate engineer from Polytech Dijon, specialized in computer science and electronics, with expertise in software and knowledge engineering. Passionate about software development and a proponent of agile work methods, I am motivated to contribute to exciting projects by providing innovative and efficient solutions. I am seeking new challenges to apply my skills in web development, software application design, and optimization, with a strong interest in technological innovation.
 </h3>
 <h4 align="center">I share my student work and projects on this github.</h4>
 
